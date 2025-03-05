@@ -1,8 +1,7 @@
 햄부기온앤온앤온
 hamburger
 this is new code line;
-<<<<<<< HEAD
-=======
 
-git coupon branch에서 수정
->>>>>>> coupon
+repository에 해봅시다잉
+ㅋㅋㅋㅋ
+이거 재미있네
